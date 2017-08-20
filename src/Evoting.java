@@ -26,7 +26,6 @@ class Evoting{
 		}
 
 	}
-
-
+//swoichha
 //added a new comment just to see a few changes in the git collaboration, by parash
 }
